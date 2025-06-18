@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "com.supabase",
     "name": "my-ecom",
     "slug": "my-ecom",
     "version": "1.0.0",
